@@ -15,5 +15,4 @@ This repository contains the code and analysis for predicting customer churn usi
 - **Accuracy:** 90.50%
 - **Precision:** 91.30%
 - **Recall:** 5.74%
-- **F1 Score:** 10.80%
-- 
+- **F1 Score:** 10.80% 
