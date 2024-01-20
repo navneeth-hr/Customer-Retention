@@ -4,6 +4,10 @@
 
 This repository contains the code and analysis for predicting customer churn using machine learning techniques. The analysis includes data exploration, feature engineering, model training, and evaluation.
 
+- **Objective:** Is 'price sensitivity' a factor for customer churn prediction?
+- **Dataset:** Utilized historical customer data with various features.
+- **Model:** RandomForestClassifier with tuned hyperparameters.
+
 ## Data Description
 
 client_data.csv
@@ -46,12 +50,6 @@ price_data.csv
 - price_off_peak_fix = price of power for the 1st period (off peak)
 - price_peak_fix = price of power for the 2nd period (peak)
 - price_mid_peak_fix = price of power for the 3rd period (mid peak)
-
-## Key Findings
-
-- **Objective:** Is 'price sensitivity' a factor for customer churn prediction?
-- **Dataset:** Utilized historical customer data with various features.
-- **Model:** RandomForestClassifier with tuned hyperparameters.
 
 ### Model Performance
 
